@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "353643620104",
+    "project_id": "sd-whatsapp-44a59",
+    "storage_bucket": "sd-whatsapp-44a59.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:353643620104:android:6542cfbba58695ede36ebd",
+        "android_client_info": {
+          "package_name": "com.example.fair_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "353643620104-qaq2td2f74tpd14ga3ubtdjchn0b8vs0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fair_chat",
+            "certificate_hash": "5c3256eb629cb6b284f8be3d70857471dccde916"
+          }
+        },
+        {
+          "client_id": "353643620104-q2hv98svui8utrptkdhukl740gqrvtqa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAapciaKtU1rtg45SlWbkiCEqLgldtecGM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "353643620104-q2hv98svui8utrptkdhukl740gqrvtqa.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "353643620104-cgk05dlrn1efo5k9g4fripbb6clu8s6k.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.fairChat"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
